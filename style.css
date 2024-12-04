@@ -1,0 +1,35 @@
+body{
+    padding: 100px;
+    margin: 0;
+}
+.text-center{
+    margin-bottom: 50px;
+}
+
+.submit-area{
+    margin-bottom: 40px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 40px;
+    margin-top:50px ;
+}
+
+
+#transection-area{
+    display: none;
+}
+.diposit{
+    background-color: slateblue;
+}
+
+.Ballance{
+    background-color: orange;
+}
+.Withdraw{
+    background-color: lightsalmon;
+}
+.status{
+    margin: 0px 20px;
+    color: white;
+    border-radius: 10px;
+    padding: 15px;
+}
